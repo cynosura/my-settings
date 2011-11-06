@@ -1,0 +1,13 @@
+[gui]
+	recentrepo = G:/Dev/Projects/Personal/FSharp/Ants
+[color]
+	ui = auto
+[core]
+	editor = 'G:/Standalone/sublime_text/sublime_text.exe'
+[alias]
+	lg = log --graph --all  --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
+[user]
+	email = Ray@NAUSICA
+	name = Ray Glover
+[merge]
+	tool = vimdiff
