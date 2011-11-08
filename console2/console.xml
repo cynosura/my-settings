@@ -4,7 +4,7 @@
 		<colors>
 			<color id="0" r="17" g="17" b="17"/>
 			<color id="1" r="16" g="102" b="109"/>
-			<color id="2" r="194" g="255" b="83"/>
+			<color id="2" r="211" g="255" b="132"/>
 			<color id="3" r="170" g="156" b="113"/>
 			<color id="4" r="233" g="103" b="119"/>
 			<color id="5" r="108" g="70" b="159"/>
@@ -12,7 +12,7 @@
 			<color id="7" r="255" g="255" b="255"/>
 			<color id="8" r="35" g="35" b="35"/>
 			<color id="9" r="138" g="218" b="244"/>
-			<color id="10" r="194" g="255" b="83"/>
+			<color id="10" r="165" g="251" b="113"/>
 			<color id="11" r="138" g="218" b="244"/>
 			<color id="12" r="243" g="124" b="146"/>
 			<color id="13" r="192" g="173" b="219"/>
@@ -21,7 +21,7 @@
 		</colors>
 	</console>
 	<appearance>
-		<font name="Consolas" size="13" bold="0" italic="0" smoothing="2">
+		<font name="Consolas" size="11" bold="0" italic="0" smoothing="2">
 			<color use="0" r="0" g="0" b="0"/>
 		</font>
 		<window title="Console" icon="" use_tab_icon="1" use_console_title="0" show_cmd="1" show_cmd_tabs="1" use_tab_title="1" trim_tab_titles="20" trim_tab_titles_right="0"/>
