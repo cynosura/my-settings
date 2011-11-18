@@ -1,0 +1,4 @@
+{
+	"cmd": ["C:\\workspaces\\MarkdownWin\\dist\\MarkdownWin.exe", "-in", "$file"],
+	"selector": "$file.md"
+}
