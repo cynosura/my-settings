@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Ian Hill</string>
+	<key>comment</key>
+	<string>A widget theme for the UI components of the Solarized Light theme.</string>
+	<key>name</key>
+	<string>Solarized Light - Widget Theme</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#fdf6e3</string>
+				<key>caret</key>
+				<string>#586e75</string>
+				<key>foreground</key>
+				<string>#657b83</string>
+				<key>invisibles</key>
+				<string>#E0E0E0</string>
+				<key>selection</key>
+				<string>#eee8d5</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
