@@ -1,0 +1,32 @@
+{
+    /*
+        Sets the mode in which SublimeLinter runs:
+
+        true - Linting occurs in the background as you type (the default).
+        false - Linting only occurs when you initiate it.
+        "load-save" - Linting occurs only when a file is loaded and saved.
+    */
+    "sublimelinter": true,
+
+    /*
+        Maps linters to executables for non-built in linters. If the executable
+        is not in the default system path, or on posix systems in /usr/local/bin
+        or ~/bin, then you must specify the full path to the executable.
+        Linter names should be lowercase.
+
+        This is the effective default map; your mappings may override these.
+
+        "sublimelinter_executable_map":
+        {
+            "perl": "perl",
+            "php": "php",
+            "ruby": "ruby"
+        },
+    */
+    "sublimelinter_executable_map":
+    {
+        "javascript": "c:/Program Files (x86)/nodejs/node"
+    }
+
+    
+}
