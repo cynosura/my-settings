@@ -8,6 +8,22 @@
     */
     "sublimelinter": true,
 
+    // jshint: options for linting JavaScript. See http://jshint.com/#docs for more info.
+    // By deault, eval is allowed.
+    "jshint_options":
+    {
+        "evil": true,
+        "regexdash": true,
+        "browser": true,
+        "wsh": true,
+        "trailing": false,
+        "laxcomma":true,
+        "sub": true,
+        "es5":true
+    },
+
+    "sublimelinter_gutter_marks": true,
+
     /*
         Maps linters to executables for non-built in linters. If the executable
         is not in the default system path, or on posix systems in /usr/local/bin
