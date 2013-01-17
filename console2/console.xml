@@ -2,7 +2,7 @@
 <settings>
 	<console change_refresh="10" refresh="100" rows="34" columns="80" buffer_rows="1000" buffer_columns="80" shell="" init_dir="" start_hidden="0" save_size="1">
 		<colors>
-			<color id="0" r="45" g="45" b="45"/>
+			<color id="0" r="35" g="36" b="37"/>
 			<color id="1" r="16" g="102" b="109"/>
 			<color id="2" r="160" g="245" b="84"/>
 			<color id="3" r="170" g="156" b="113"/>
@@ -29,8 +29,8 @@
 		<styles caption="1" resizable="1" taskbar_button="1" border="1" inside_border="8" tray_icon="0">
 			<selection_color r="49" g="51" b="51"/>
 		</styles>
-		<position x="1024" y="86" dock="-1" snap="0" z_order="0" save_position="1"/>
-		<transparency type="2" active_alpha="220" inactive_alpha="220" r="255" g="255" b="249"/>
+		<position x="64" y="48" dock="-1" snap="0" z_order="0" save_position="1"/>
+		<transparency type="1" active_alpha="220" inactive_alpha="220" r="255" g="255" b="249"/>
 	</appearance>
 	<behavior>
 		<copy_paste copy_on_select="1" clear_on_copy="1" no_wrap="1" trim_spaces="1" copy_newline_char="0" sensitive_copy="1"/>
@@ -102,7 +102,7 @@
 		<tab title="powershell" use_default_icon="0">
 			<console shell="C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" init_dir="G:\dev\Projects\" run_as_user="0" user=""/>
 			<cursor style="9" r="12" g="12" b="12"/>
-			<background type="0" r="46" g="46" b="46">
+			<background type="0" r="35" g="36" b="37">
 				<image file="" relative="0" extend="0" position="0">
 					<tint opacity="0" r="0" g="0" b="0"/>
 				</image>
